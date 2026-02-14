@@ -1,5 +1,4 @@
 // Problem: Longest Consecutive Sequence
-// Platform: LeetCode
 // Description: Find the length of the longest sequence of consecutive integers in an unsorted array.
 // Time Complexity: O(n)
 // Space Complexity: O(n)
