@@ -1,5 +1,4 @@
 // Problem: 152. Maximum Product Subarray
-// Platform: LeetCode / DSA Practice
 // Description: Return the maximum product of a contiguous subarray.
 // Time Complexity: O(n)
 // Space Complexity: O(1)
