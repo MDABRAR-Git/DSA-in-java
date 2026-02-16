@@ -32,13 +32,13 @@ class Solution {
         Stack<Integer> st = new Stack<>();
         ListNode curr = head;
 
-        // Push all values into stack
+        
         while (curr != null) {
             st.push(curr.val);
             curr = curr.next;
         }
 
-        // Create new reversed linked list
+        
         ListNode newHead = new ListNode(st.pop());
         ListNode temp = newHead;
 
