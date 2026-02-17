@@ -1,8 +1,8 @@
 // Problem: 206. Reverse Linked List
 // Platform: LeetCode / DSA Practice
 // Description: Reverse a singly linked list using a Stack.
-// Time Complexity: O(n)
-// Space Complexity: O(n)
+// Time Complexity:O(n)
+// Space Complexity:O(n)
 
 
 import java.util.*;
