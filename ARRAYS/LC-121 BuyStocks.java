@@ -1,8 +1,8 @@
 // Problem: Best Time to Buy and Sell Stock
 // Platform: LeetCode / DSA Practice
 // Description: Find the maximum profit from one buy-sell transaction.
-// Time Complexity: O(n)
-// Space Complexity: O(1)
+// Time Complexity:O(n)
+// Space Complexity:O(1)
 
 
 import java.util.*;
