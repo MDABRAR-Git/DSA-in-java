@@ -1,8 +1,8 @@
 // Problem: Maximum Subarray (Kadane's Algorithm)
 // Platform: LeetCode 
 // Description: Find the maximum sum of any contiguous subarray.
-// Time Complexity: O(n)
-// Space Complexity: O(1)
+// Time Complexity:O(n)
+// Space Complexity:O(1)
 
 
 import java.util.*;
