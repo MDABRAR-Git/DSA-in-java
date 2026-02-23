@@ -1,8 +1,8 @@
 // Problem: 81. Search in Rotated Sorted Array II
 // Platform: LeetCode / DSA Practice
 // Description: Search target in a rotated sorted array that may contain duplicates.
-// Time Complexity: O(log n) average, O(n) worst case (due to duplicates)
-// Space Complexity: O(1)
+// Time Complexity:O(log n) average, O(n) worst case (due to duplicates)
+// Space Complexity:O(1)
 
 
 import java.util.*;
