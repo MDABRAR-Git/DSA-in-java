@@ -1,5 +1,5 @@
 // Problem: 152. Maximum Product Subarray
-// Description: Return the maximum product of a contiguous subarray.
+// Description:Return the maximum product of a contiguous subarray.
 // Time Complexity: O(n)
 // Space Complexity: O(1)
 
