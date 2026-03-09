@@ -8,7 +8,7 @@ class Solution {
                 max = arr[i];
             }
         }
-
+ 
         return max;   
     }
 }
