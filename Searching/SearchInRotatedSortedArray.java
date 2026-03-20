@@ -5,7 +5,7 @@
 // Space Complexity:O(1)
 
 
-import java.util.*;
+import java.util.*; 
 
 class Solution {
     public boolean search(int[] a, int tar) {
